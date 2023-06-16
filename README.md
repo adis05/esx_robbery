@@ -1,11 +1,6 @@
 # [Discord](https://discord.gg/XNru5c3cBx)
-requertment :
-esx
-ox_lib
-ox_inventory
-ox_target
-optional ps-dispacth
----add this in item.lua ox_inventory---
+requertment :esx, ox_lib, ox_inventory, ox_target, optional ps-dispacth
+add this in item.lua ox_inventory
 ['advancedlockpick'] = {
         label = 'Advanced Lockpick',
         weight = 7,
@@ -16,5 +11,4 @@ optional ps-dispacth
             usetime = 500,
             cancel = true
         }
-    },
-------------------------------------------
+},
