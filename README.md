@@ -1,5 +1,5 @@
 # [Discord](https://discord.gg/XNru5c3cBx)
-requertment :esx, ox_lib, ox_inventory, ox_target, optional ps-dispacth
+requertment :esx, ox_lib, ox_inventory, ox_target, 
 add this in item.lua ox_inventory
 ['advancedlockpick'] = {
         label = 'Advanced Lockpick',
@@ -12,3 +12,5 @@ add this in item.lua ox_inventory
             cancel = true
         }
 },
+optional ps-dispacth
+https://github.com/adis05/ps-dispatch-esx
